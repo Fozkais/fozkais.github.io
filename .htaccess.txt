@@ -1,0 +1,4 @@
+﻿AuthName "Site Protégée par un mot de passe"
+AuthType Basic
+AuthUserFile "https://fozkais.github.io/.htpasswd"
+Require valid-user
